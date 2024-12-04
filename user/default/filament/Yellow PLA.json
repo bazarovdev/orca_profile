@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#FFFF0A"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_end_gcode": [
+        "; filament_end_YellowPLA gcode \n"
+    ],
+    "filament_flow_ratio": [
+        "1.07"
+    ],
+    "filament_loading_speed": [
+        "10"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Yellow PLA"
+    ],
+    "filament_start_gcode": [
+        "; filament_start_YellowPLA gcode\n"
+    ],
+    "filament_unloading_speed": [
+        "10"
+    ],
+    "filament_unloading_speed_start": [
+        "10"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Yellow PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.65"
+    ],
+    "version": "2.2.0.4"
+}

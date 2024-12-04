@@ -1,0 +1,21 @@
+{
+    "bridge_acceleration": "3000",
+    "brim_type": "no_brim",
+    "default_acceleration": "3000",
+    "enable_prime_tower": "1",
+    "exclude_object": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "initial_layer_line_width": "0.56",
+    "initial_layer_print_height": "0.3",
+    "initial_layer_speed": "30",
+    "inner_wall_acceleration": "3000",
+    "internal_solid_infill_acceleration": "3000",
+    "is_custom_defined": "0",
+    "line_width": "0.45",
+    "name": "0.20mm Standard @Klipper",
+    "print_settings_id": "0.20mm Standard @Klipper",
+    "sparse_infill_acceleration": "3000",
+    "travel_acceleration": "3000",
+    "version": "2.2.0.4"
+}
